@@ -6,6 +6,7 @@ HELP_MEDIA = \
   figures/logo.png
 HELP_FILES = \
   index.page \
+  rules.page \
   legal.xml
 
 HELP_LINGUAS = 
