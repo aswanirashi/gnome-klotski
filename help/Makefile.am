@@ -7,6 +7,7 @@ HELP_MEDIA = \
 HELP_FILES = \
   index.page \
   rules.page \
+  puzzles.page \
   legal.xml
 
 HELP_LINGUAS = 
