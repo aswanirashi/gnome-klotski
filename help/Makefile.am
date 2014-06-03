@@ -13,6 +13,7 @@ HELP_FILES = \
   puzzles-moves.page \
   moves.page \
   scores.page \
+  game-introduction.page \
   legal.xml
 
 HELP_LINGUAS = 

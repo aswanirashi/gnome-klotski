@@ -21,10 +21,10 @@
 
   <title><media type="image" its:translate="no" src="figures/logo32.png">
   Klotski logo</media> Klotski</title>
-  <p><app>The Klotski</app> application is a clone of the Klotski game. The
-  objective of the game is to move the patterned block to the area bordered by
-  the green markers in the minimum number of moves by sliding the blocks
-  horizontally or vertically.</p>
+  <p>Slide blocks to solve the puzzle. You can visit
+  <link xref="game-introduction">Game introduction</link> to know more about
+  the game. Other help topics are grouped together into sections below.</p>
+
 
   <section id="play" style="2column">
     <title>Playing Klotski</title>
