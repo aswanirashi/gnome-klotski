@@ -14,6 +14,7 @@ HELP_FILES = \
   moves.page \
   scores.page \
   game-introduction.page \
+  shortcuts.page \
   legal.xml
 
 HELP_LINGUAS = 
