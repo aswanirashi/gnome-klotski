@@ -9,6 +9,7 @@ HELP_FILES = \
   rules.page \
   puzzles.page \
   start-game.page \
+  scores.page \
   legal.xml
 
 HELP_LINGUAS = 
