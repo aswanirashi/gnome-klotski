@@ -11,6 +11,8 @@ HELP_FILES = \
   start-game.page \
   scores.page \
   puzzles-moves.page \
+  moves.page \
+  scores.page \
   legal.xml
 
 HELP_LINGUAS = 
