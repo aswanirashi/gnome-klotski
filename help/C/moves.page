@@ -4,6 +4,7 @@
 
   <info>
     <link type="guide" xref="index#play"/>
+    <link type="seealso" xref="scores"/>
     <revision version="3.12" date="2014-05-24" status="review"/>
 
     <credit type="author">
@@ -13,6 +14,8 @@
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude" />
+
+    <desc>Check the number of moves you made.</desc>
 
   </info>
 
@@ -26,9 +29,8 @@
 
   <section id="patterned-block-moves">
     <title>Goal piece moves</title>
-    <!-- Break the first sentence into two sentences. -->
-      <p>The goal location may be positioned slightly off the board and the
-      goal piece which is the patterned block is always permitted to move to
+      <p>The goal location may be positioned slightly off the board. The
+      goal piece, which is the patterned block, is always permitted to move to
       it. However, no other blocks are permitted to move off the board</p>
   </section>
  
