@@ -4,11 +4,11 @@
 
   <info>
     <link type="guide" xref="index#play"/>
- 
-    <revision version="3.12" date="2014-05-26" status="review"/>
     <link type="seealso" xref="rules"/>
     <link type="seealso" xref="keyboard-shortcuts"/>
     <link type="seealso" xref="puzzles"/>
+    <revision version="3.12" date="2014-05-26" status="review"/>
+
     <credit type="author">
       <name>Rashi Aswani</name>
       <email>aswanirashi19@gmail.com</email>
