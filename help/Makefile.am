@@ -15,6 +15,6 @@ HELP_FILES = \
   scores.page \
   start-game.page
 
-HELP_LINGUAS = 
+HELP_LINGUAS =
 
 -include $(top_srcdir)/git.mk
