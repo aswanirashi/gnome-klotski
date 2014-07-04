@@ -21,7 +21,7 @@
 
   <title>Moves</title>
 
-  <p>You can see your number of moves at the top of the game screen. The
+  <p>You can view your number of moves at the top of the game screen. The
   consecutive moves of a block are considered to be a single move. For example,
   moving a block up one square then right two squares is considered one
   move.</p>
