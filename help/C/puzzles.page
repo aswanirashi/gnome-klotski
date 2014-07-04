@@ -28,7 +28,7 @@
   puzzles, the second one provides ten beautiful puzzles to the user.</p>
 
   <section id="navigate-puzzles">
-    
+
   <title>Navigate among puzzles</title>
 
   <p>To navigate between the puzzles:</p>
@@ -49,7 +49,7 @@
   <p>Each puzzle is different from the other in the manner of, the minimum
   number of moves to solve them and the various positions of the blocks in it.
   You can find the minimum number of moves for the various puzzles below.</p>
-  
+
   <table frame="all" rules="rows cols">
     <tr>
       <td><p>Puzzles</p></td> <td><p>Minimum number of moves</p></td>
