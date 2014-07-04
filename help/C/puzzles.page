@@ -35,7 +35,7 @@
     <steps>
       <item><p>Click on <gui style="button">View Puzzles</gui> in the
       bottom right, choose a category. All the puzzles in the category will
-      be displayed</p></item>
+      be displayed.</p></item>
       <item><p>You can navigate sequentially among the puzzles with the
       <gui style="button">Next Puzzle</gui> and <gui style="button">
       Previous Puzzle</gui>.</p></item>
