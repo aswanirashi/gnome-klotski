@@ -25,7 +25,9 @@
   <p>Slide blocks to solve the puzzle. To know more about the game, visit
   <link xref="introduction">Game introduction</link>. Other help topics
   are grouped together into sections below.</p>
-
+  <!-- I don't think the word visit is appropriate, use "see" -->
+ <!-- The last sentence is not required -->
+ 
   <section id="play" style="2column">
     <title>Playing Klotski</title>
   </section>

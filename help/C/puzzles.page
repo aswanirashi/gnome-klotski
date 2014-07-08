@@ -18,6 +18,7 @@
 
     <desc>Navigate among puzzles, look at the minimum number of moves to solve
     a puzzle.</desc>
+    <!-- navigate among? say something along the lines of "Browse and learn about various puzzles" -->
 
   </info>
 
@@ -32,6 +33,7 @@
   <title>Navigate among puzzles</title>
 
   <p>To navigate between the puzzles:</p>
+  <!--This sentence is redundant, how is it complementing the title? it seems repeatitive -->
     <steps>
       <item><p>Click on <gui style="button">View Puzzles</gui> in the
       bottom right, choose a category. All the puzzles in the category will
@@ -48,7 +50,9 @@
 
   <p>Each puzzle is different from the other in the manner of, the minimum
   number of moves to solve them and the various positions of the blocks in it.
+  <!--Simplify this sentence, please. Its too verbose and confusing -->
   You can find the minimum number of moves for the various puzzles below.</p>
+  <!-- This is the place you should say "The minimum numer of moves for the various puzzles are:" -->
 
   <table frame="all" rules="rows cols">
     <tr>

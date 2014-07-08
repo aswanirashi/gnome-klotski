@@ -22,7 +22,7 @@
   <title>Game rules</title>
 
   <p>These are the rules to follow when sliding blocks:</p>
-
+<!-- This sentence is redundant. Say a line or two about why would we need these rules? would they make the game more fun? -->
   <section id="rules">
     <title>Rules to move a block</title>
       <list>
@@ -39,5 +39,7 @@
     <p>Click and drag the desired block to a location of your choice on the
     board.</p>
   </section>
+
+  <!--This information should be at the top of the page, it makes sense that user knows how to play by making a move and then look at rules -->
 
 </page>

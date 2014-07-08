@@ -1,7 +1,7 @@
 <page xmlns="http://projectmallard.org/1.0/"
       type="topic"
       id="start-game">
-
+<!--Did i mention something about this file name? rename it to start.page -->
   <info>
     <link type="guide" xref="index#play"/>
     <link type="seealso" xref="rules"/>
@@ -25,6 +25,7 @@
 
   <p><app>Klotski</app> offers a large collection of games, to play a new
   game:</p>
+  <!-- This should be in steps!! -->
   <p>Select <guiseq><gui style="menu">Klotski</gui>
   <gui style="menuitem">New Game</gui></guiseq>.
   Alternatively, you can click the <gui style="button">Start Over</gui>
@@ -33,7 +34,7 @@
 
   <section id="play-different-puzzles">
   <title>Play a different puzzle</title>
-
+<!--Split this into steps -->
     <p>To play a different puzzle, click the <gui style="button">View
     Puzzles</gui> button, choose a game category and start a new puzzle by
     double clicking on it.</p>
