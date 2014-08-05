@@ -16,8 +16,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude" />
 
-    <desc>Navigate among puzzles, look at the minimum number of moves to solve
-    a puzzle.</desc>
+    <desc>Browse and learn about puzzles.</desc>
 
   </info>
 
@@ -31,7 +30,8 @@
 
   <title>Navigate among puzzles</title>
 
-  <p>To navigate between the puzzles:</p>
+  <p>There are a set of nineteen amazing puzzles, to browse among the
+  puzzles:</p>
     <steps>
       <item><p>Click on <gui style="button">View Puzzles</gui> in the
       bottom right, choose a category. All the puzzles in the category will
@@ -46,9 +46,8 @@
 
   <title>Minimum number of moves</title>
 
-  <p>Each puzzle is different from the other in the manner of, the minimum
-  number of moves to solve them and the various positions of the blocks in it.
-  You can find the minimum number of moves for the various puzzles below.</p>
+  <p>The number of moves and the placement of blocks together make each game
+  unique. The minimum number of moves for the various puzzles are:</p>
 
   <table frame="all" rules="rows cols">
     <tr>

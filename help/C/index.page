@@ -22,9 +22,8 @@
 
   <title><media type="image" its:translate="no" src="figures/logo32.png">
   Klotski logo</media> Klotski</title>
-  <p>Slide blocks to solve the puzzle. To know more about the game, visit
-  <link xref="introduction">Game introduction</link>. Other help topics
-  are grouped together into sections below.</p>
+  <p>Slide blocks to solve the puzzle. To know more about the game, see
+  <link xref="introduction">Game introduction</link>.</p>
 
   <section id="play" style="2column">
     <title>Playing Klotski</title>

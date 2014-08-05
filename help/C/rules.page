@@ -21,7 +21,14 @@
 
   <title>Game rules</title>
 
-  <p>These are the rules to follow when sliding blocks:</p>
+  <p>The aim of <app>Klotski</app> is to move the patterened block to a
+   specific location. Some simple rules you must follow while moving:</p>
+  
+  <section id="move-block">
+    <title>Move a block</title>
+    <p>Click and drag the desired block to a location of your choice on the
+    board.</p>
+  </section>
 
   <section id="rules">
     <title>Rules to move a block</title>
@@ -34,10 +41,5 @@
       </list>
   </section>
 
-  <section id="move-block">
-    <title>Move a block</title>
-    <p>Click and drag the desired block to a location of your choice on the
-    board.</p>
-  </section>
 
 </page>
