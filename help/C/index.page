@@ -3,6 +3,7 @@
   id="index"
   type="guide"
   style="2column">
+<!--Can't they not be in the same line? -->
 
   <info>
     <title type="link" role="trail"><media type="image" its:translate="no"
@@ -24,6 +25,8 @@
   Klotski logo</media> Klotski</title>
   <p>Slide blocks to solve the puzzle. To know more about the game, see
   <link xref="introduction">Game introduction</link>.</p>
+  <!-- See gEdit's help, see how they introduced their introduction pages?
+Am not happy with the second line here.-->
 
   <section id="play" style="2column">
     <title>Playing Klotski</title>

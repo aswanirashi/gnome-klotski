@@ -20,10 +20,11 @@
   </info>
 
   <title>Game rules</title>
-
+<!--Might want to a spell check, what's patterened? :) -->
   <p>The aim of <app>Klotski</app> is to move the patterened block to a
    specific location. Some simple rules you must follow while moving:</p>
-  
+  <!-- Not happy with the second sentence, revise it please. why do we two sections here? one is just fine. Merge them. -->
+
   <section id="move-block">
     <title>Move a block</title>
     <p>Click and drag the desired block to a location of your choice on the

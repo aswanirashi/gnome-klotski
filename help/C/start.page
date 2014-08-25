@@ -1,6 +1,8 @@
 <page xmlns="http://projectmallard.org/1.0/"
       type="topic"
       id="start">
+
+<!-- this page should show up near introduction not in the playing klotski section -->
   <info>
     <link type="guide" xref="index#play"/>
     <link type="seealso" xref="rules"/>
