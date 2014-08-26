@@ -20,27 +20,20 @@
   </info>
 
   <title>Game rules</title>
-<!--Might want to a spell check, what's patterened? :) -->
-  <p>The aim of <app>Klotski</app> is to move the patterened block to a
-   specific location. Some simple rules you must follow while moving:</p>
-  <!-- Not happy with the second sentence, revise it please. why do we two sections here? one is just fine. Merge them. -->
 
-  <section id="move-block">
-    <title>Move a block</title>
-    <p>Click and drag the desired block to a location of your choice on the
-    board.</p>
+  <p>The aim of <app>Klotski</app> is to move the patterned block to a
+   specific location. You must follow some rules while moving the blocks:</p>
+
+  <section id="rules-block">
+  <title>Rules to move a block</title>
+    <list>
+      <item><p>Click and drag the desired block to a location of your choice on
+      the board.</p></item>
+      <item><p>The green blocks and the boundary blocks cannot be moved.</p>
+      </item>
+      <item><p>A block cannot be moved over the green blocks. However, it is
+      allowed to move a patterened block.</p></item>
+      <item><p>You can take more than one step in a single move.</p></item>
+    </list>
   </section>
-
-  <section id="rules">
-    <title>Rules to move a block</title>
-      <list>
-        <item><p>The green blocks and the boundary blocks cannot be moved.</p>
-        </item>
-        <item><p>A block cannot be moved over the green blocks. However, it is
-        allowed to move a patterened block.</p></item>
-        <item><p>You can take more than one step in a single move.</p></item>
-      </list>
-  </section>
-
-
 </page>
