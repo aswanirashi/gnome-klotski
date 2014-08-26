@@ -1,9 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
-  xmlns:its="http://www.w3.org/2005/11/its"
-  id="index"
-  type="guide"
+  xmlns:its="http://www.w3.org/2005/11/its" id="index" type="guide"
   style="2column">
-<!--Can't they not be in the same line? -->
 
   <info>
     <title type="link" role="trail"><media type="image" its:translate="no"
@@ -23,10 +20,9 @@
 
   <title><media type="image" its:translate="no" src="figures/logo32.png">
   Klotski logo</media> Klotski</title>
-  <p>Slide blocks to solve the puzzle. To know more about the game, see
+  <p>Slide blocks to solve the puzzle. For a quick introduction into the most
+  basic features of <app>Klotski</app>, visit
   <link xref="introduction">Game introduction</link>.</p>
-  <!-- See gEdit's help, see how they introduced their introduction pages?
-Am not happy with the second line here.-->
 
   <section id="play" style="2column">
     <title>Playing Klotski</title>
