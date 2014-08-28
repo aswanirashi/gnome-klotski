@@ -1,6 +1,4 @@
-<page xmlns="http://projectmallard.org/1.0/"
-      type="topic"
-      id="moves">
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="moves">
 
   <info>
     <link type="guide" xref="index#play"/>
